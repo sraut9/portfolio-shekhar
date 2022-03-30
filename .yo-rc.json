@@ -41,6 +41,8 @@
     "jwtSecretKey": "ZGJlMjk0ZTBhMTAwMThjYTk0OTdkYjIwYzkxYjI3ZjQzNWE4MjI0MGZhZDNlMDk0NjAzZDQ0NDE5MmIzYTQyZGIxYWU0ZjQ0ZTU0NjIwZTY2ODAyNGY4OWViNTc5ZmRkNzEzMjY2ZjA0ODljNTVlNzQwZDVhY2MwYmUxOWM4MWQ=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "entities": ["Portfolio", "MF", "Shares", "MutualFund"],
+    "lastLiquibaseTimestamp": 1647192361000
   }
 }
